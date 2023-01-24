@@ -14,5 +14,7 @@ int main() {
     int d2 = rand() % 6 + 1;
     //Display roll
     cout << "You rolled: " << d1 << " " << d2 << endl;
-
+    
+    
+    system("pause");
 }
